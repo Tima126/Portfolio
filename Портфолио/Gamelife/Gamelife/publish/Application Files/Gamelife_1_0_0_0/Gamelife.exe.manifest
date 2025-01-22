@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Gamelife.exe" version="1.0.0.0" publicKeyToken="cef03f72135491a8" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Gamelife" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Gamelife.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gamelife.exe" size="13280">
+      <assemblyIdentity name="Gamelife" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9JKzoyWnVSGF5rOiURbsYnRZibtYuifCvSK2TCRKxZw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Gamelife.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oWu74zvPy0v3fB+cE0VM1nicyfA0TvANUiqy8USokWE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-TV374V6\timaf" issuerKeyHash="7940fba878ada2c0129b15cabc0e6b16d9733fba" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PomWCJ2v+bmY2oEHCbkW3Zu0QMokmosnbBHo44yF5SM=</DigestValue></Reference></SignedInfo><SignatureValue>JJOgt+7I+0oQuVJ8SdPXXSa7S3bCA3R0l6AY1/4XOe6GfBIvjJz+rpI4WA4yFhlCAmUb3vtqlGBDtbtnx1APeI3V6s6iuncM0piZEQ8M4RcYL2Cp5CQHom0Y81t6iTWRh8QlIl/mAn0pKKymY48UUnyJrxz+UK28Uf4YC5iy+NI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wZ/tDKbpnS6gQZgICFXqnmsahdYomMCrxGdOOKoyTlrJEZNwK4226YWT3ZW1W72JcCoN+KEYGwHzevBzch2/afhHzNd9gAak9MAbDuvX0geWIok5Sp4Yeb51q+cUjOVhP6+/jNsT5ISq84rrX27G4cF+JaLzz9dSr5d/n92lykk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="23e5858ce3e8116c278b9a24ca40b49bdd16b9090781da98b9f9af9d0896893e" Description="" Url=""><as:assemblyIdentity name="Gamelife.exe" version="1.0.0.0" publicKeyToken="cef03f72135491a8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-TV374V6\timaf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>oq6+shlFisMKALueJklw0LXRvk32ItWOwVEU1VTXyI4=</DigestValue></Reference></SignedInfo><SignatureValue>UUN8jO0L5O1jLz0Dq+XvTu9DeAljhOp59vYbt0ncEq/xBaInOCbge9CswwzszFjhp7uc11L6hFwdhlCxSp6zyJXaZMNmrG+t/P0gsqLxLTad1EVdq/RaoMmagnHW7GQDAv9RSAVqqdkItU2j3iIMKIhSoBkrayrBVExXzJHr+zM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wZ/tDKbpnS6gQZgICFXqnmsahdYomMCrxGdOOKoyTlrJEZNwK4226YWT3ZW1W72JcCoN+KEYGwHzevBzch2/afhHzNd9gAak9MAbDuvX0geWIok5Sp4Yeb51q+cUjOVhP6+/jNsT5ISq84rrX27G4cF+JaLzz9dSr5d/n92lykk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQNUXS/ID/cYpP1IAGbjLIoTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFQAVgAzADcANABWADYAXAB0AGkAbQBhAGYwHhcNMjQwNjA0MTUwOTI2WhcNMjUwNjA0MjEwOTI2WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFQAVgAzADcANABWADYAXAB0AGkAbQBhAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMGf7Qym6Z0uoEGYCAhV6p5rGoXWKJjAq8RnTjiqMk5ayRGTcCuNtumFk92VtVu9iXAqDfihGBsB83rwc3Idv2n4R8zXfYAGpPTAGw7r19IHliKJOUqeGHm+davnFIzlYT+vv4zbE+SEqvOK619uxuHBfiWi88/XUq+Xf5/dpcpJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAUGT0Kz+Wg27/o+wn1Ra923d0VLBXua70cCQVu583GEAmp5Fit8J828bxSUbiN+QSfvo59n8lC5atP9leDlwby/5cmc2df3CnhllIuX8xRM7MPctsC2pEu8mBPiFGGEKAWi53pICivEq4Gp7tWATmunKlf0f0CzQDaCZUlknzA2M=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

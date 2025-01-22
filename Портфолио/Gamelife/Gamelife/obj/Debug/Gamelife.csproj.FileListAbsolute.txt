@@ -1,0 +1,14 @@
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\bin\Debug\Gamelife.exe.config
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\bin\Debug\Gamelife.exe
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\bin\Debug\Gamelife.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.csproj.AssemblyReference.cache
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.Form1.resources
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.Properties.Resources.resources
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.csproj.GenerateResource.cache
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.csproj.CoreCompileInputs.cache
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.exe
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\bin\Debug\Gamelife.exe.manifest
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\bin\Debug\Gamelife.application
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.exe.manifest
+C:\Users\timaf\OneDrive\Рабочий стол\Gamelife\Gamelife\obj\Debug\Gamelife.application

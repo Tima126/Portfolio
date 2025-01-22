@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="Buuton2" TargetType="Button">
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="Foreground" Value="Black"/>
+
+    </Style>
+    
+    <Style x:Key="Border" TargetType="Grid">
+        <Setter Property="Background" Value="White"/>
+       
+
+    </Style>
+    <Style x:Key="Текст" TargetType="TextBox">
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+    <Style x:Key="Лабел" TargetType="Label">
+        <Setter Property="Background" Value="DimGray"/>
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+</ResourceDictionary>

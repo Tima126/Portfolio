@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASCIIart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF4BA81-C9F6-4E01-A217-828FAA175BBF}|ASCIIart\\ASCIIart.csproj|d:\\asciiart\\asciiart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF4BA81-C9F6-4E01-A217-828FAA175BBF}|ASCIIart\\ASCIIart.csproj|solutionrelative:asciiart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF4BA81-C9F6-4E01-A217-828FAA175BBF}|ASCIIart\\ASCIIart.csproj|D:\\ASCIIart\\asciiart\\extins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF4BA81-C9F6-4E01-A217-828FAA175BBF}|ASCIIart\\ASCIIart.csproj|solutionrelative:asciiart\\extins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF4BA81-C9F6-4E01-A217-828FAA175BBF}|ASCIIart\\ASCIIart.csproj|D:\\ASCIIart\\asciiart\\bitmapconvertascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF4BA81-C9F6-4E01-A217-828FAA175BBF}|ASCIIart\\ASCIIart.csproj|solutionrelative:asciiart\\bitmapconvertascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BitmapConvertASCII.cs",
+              "DocumentMoniker": "D:\\ASCIIart\\ASCIIart\\BitmapConvertASCII.cs",
+              "RelativeDocumentMoniker": "ASCIIart\\BitmapConvertASCII.cs",
+              "ToolTip": "D:\\ASCIIart\\ASCIIart\\BitmapConvertASCII.cs",
+              "RelativeToolTip": "ASCIIart\\BitmapConvertASCII.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:38:22.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extins.cs",
+              "DocumentMoniker": "D:\\ASCIIart\\ASCIIart\\Extins.cs",
+              "RelativeDocumentMoniker": "ASCIIart\\Extins.cs",
+              "ToolTip": "D:\\ASCIIart\\ASCIIart\\Extins.cs",
+              "RelativeToolTip": "ASCIIart\\Extins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:38:22.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASCIIart\\ASCIIart\\Program.cs",
+              "RelativeDocumentMoniker": "ASCIIart\\Program.cs",
+              "ToolTip": "D:\\ASCIIart\\ASCIIart\\Program.cs",
+              "RelativeToolTip": "ASCIIart\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:38:22.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

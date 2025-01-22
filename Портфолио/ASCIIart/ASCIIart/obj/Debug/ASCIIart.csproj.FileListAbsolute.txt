@@ -1,0 +1,14 @@
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\bin\Debug\ASCIIart.exe.config
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\bin\Debug\ASCIIart.exe
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\bin\Debug\ASCIIart.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\obj\Debug\ASCIIart.csproj.AssemblyReference.cache
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\obj\Debug\ASCIIart.csproj.CoreCompileInputs.cache
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\obj\Debug\ASCIIart.exe
+C:\Users\timaf\OneDrive\Рабочий стол\ASCIIart\ASCIIart\obj\Debug\ASCIIart.pdb
+E:\ASCIIart\ASCIIart\bin\Debug\ASCIIart.exe.config
+E:\ASCIIart\ASCIIart\bin\Debug\ASCIIart.exe
+E:\ASCIIart\ASCIIart\bin\Debug\ASCIIart.pdb
+E:\ASCIIart\ASCIIart\obj\Debug\ASCIIart.csproj.AssemblyReference.cache
+E:\ASCIIart\ASCIIart\obj\Debug\ASCIIart.csproj.CoreCompileInputs.cache
+E:\ASCIIart\ASCIIart\obj\Debug\ASCIIart.exe
+E:\ASCIIart\ASCIIart\obj\Debug\ASCIIart.pdb
