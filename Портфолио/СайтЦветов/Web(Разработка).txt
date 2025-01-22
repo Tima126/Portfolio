@@ -1,0 +1,13 @@
+Основной проект состоит из rest Api для управлением базы данных на тему Цветочный магазин, и Клиентской части
+в этом проекте научился разрабатывать свой rest Api и клиентскую часть для взаимодействие с Api, разработал базу данных для цветочного магазина на 15 таблиц,
+писал свой docker и docker compose- для сборки и развертывание проекта на удаленном сервере 
+ссылки на github:
+https://github.com/Tima126/StoreFlowers.git
+WebClient - отвечает за Client
+webApi - restApi(Swagger)
+
+ссылки на сайт и API
+https://webapi-jgf2.onrender.com/swagger/index.html ---- Api
+https://storeflowers.onrender.com/products          ---- Сайт(если перейти на вкладку продукты и  подождать то через не сколько секунд подгрузятся данные из API)		 
+
+ 
