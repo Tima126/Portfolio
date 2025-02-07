@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC4E9F-8612-4CC4-8363-64A20DBBF35D}|\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).vcxproj|D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC4E9F-8612-4CC4-8363-64A20DBBF35D}|\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).vcxproj|solutionrelative:\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC4E9F-8612-4CC4-8363-64A20DBBF35D}|\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).vcxproj|D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC4E9F-8612-4CC4-8363-64A20DBBF35D}|\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).vcxproj|solutionrelative:\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constant.h",
+              "DocumentMoniker": "D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\Constant.h",
+              "RelativeDocumentMoniker": "\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\Constant.h",
+              "ToolTip": "D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\Constant.h",
+              "RelativeToolTip": "\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\Constant.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-07T14:02:46.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp",
+              "DocumentMoniker": "D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp",
+              "RelativeDocumentMoniker": "\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp",
+              "ToolTip": "D:\\Portfolio\\\u041F\u043E\u0440\u0442\u0444\u043E\u043B\u0438\u043E\\\u0421\u002B\u002B\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp",
+              "RelativeToolTip": "\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A)\\\u0422\u0435\u0441\u0442 3(\u041C\u044F\u0447\u0438\u043A).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T14:02:46.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
